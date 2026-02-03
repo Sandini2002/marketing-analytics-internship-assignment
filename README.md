@@ -90,3 +90,8 @@ A short video walkthrough explaining the analysis approach, key outputs, and bus
 *If downloading the video is not convenient, the presentation can also be viewed via the following Google Drive link:*
 [Watch Video on Google Drive](https://drive.google.com/file/d/1ogHdECh3N8-Rl8NxCfaQP9-6mfuMjg1X/view?usp=sharing&t=640)
 
+### Update Note
+The category performance (Revenue vs Order Volume) chart was updated to ensure
+consistent use of completed-order data and correct category-level aggregation.
+new bubble chart has uploaded as an image document.
+
